@@ -30,6 +30,10 @@ To run this project locally, follow these steps:
 - To mark a task as completed, click the checkbox next to it.
 - To delete a task, click the "Delete" button next to it.
 
+## Screenshots
+
+![Screenshot](/src/images/Screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
